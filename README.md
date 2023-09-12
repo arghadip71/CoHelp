@@ -5,9 +5,7 @@ CoHelp is an app completely based on relevant things and data that are related i
 
 
 
- ## Usage
-It's uses are to find NGOs,Hospitals and other essential Informations.
-Visit our website here: https://amelia2802.github.io/CoHelp-Website/index.html
+
 
 
 ### Resources
