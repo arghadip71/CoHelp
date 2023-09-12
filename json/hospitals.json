@@ -1,0 +1,135 @@
+[
+    {"Name":"Amri Hospital,Salt lake",
+    "Address": "JC Block Lane, Central Park Road Broadway Road",
+    "Contact No": "033 6606 3800"
+    },
+    {
+    "Name":"Siliguri District Hospital",
+    "Address": "Ward 17, Hakim Para, Siliguri",
+    "Contact No": "0353 2436526"
+    },
+    {
+    "Name":"Medinipore Hospital",
+    "Address": "Midnapore, West Bengal 721101",
+    "Contact No":"03222 222 400"
+    },
+    {
+    "Name":"Dishari Health Point Pvt. LTD",
+    "Address": "19, Bipin Ghosh Rd, Mokdumpur, Malda, West Bengal 732103",
+    "Contact No": "81166 02199"
+    },
+    {
+    "Name":"Jeeban Suraksha Hospital",
+    "Address": "Chhatna Rd, Katjuridanga, Bankura, West Bengal 722102",
+    "Contact No": "81700 21311"
+    },
+
+        {
+        "Name":"OPD VIMS pawapuri",
+        "Address": "Nalanda, Bihar 803115",
+        "Contact No": "06112 262794"
+        },
+        {
+        "Name":"G.n.m. School, Jehanabad, Bihar",
+        "Address": "Sadar Hospital, Jehanabad, 804408",
+        "Contact No":  "94700 03332"
+        },
+        {
+        "Name":"Nalanda Medical College & Hospital",
+        "Address": "medical college, B-8 ,New boys hostel,Nalanda, Bhootnath Rd, Patna, Bihar 800026",
+        "Contact No": "N/A"
+        },
+        {
+        "Name":"Patna Medical College and Hospital",
+        "Address": "Ashok Rajpath, Patna University Campus, Patna, Bihar 800001",
+        "Contact No": "0612 230 0343"
+        },
+        {
+        "Name":"Indira Gandhi Institute of Medical Sciences",
+        "Address": "Allahabad bank, Bailey Rd, Sheikhpura, Patna, Bihar 800014",
+        "Contact No": "0612 229 7099"
+        },
+        {
+        "Name":"AIIMS Patna",
+        "Address": "Patna - Aurangabad Rd, Phulwari Sharif, Patna, Bihar 801507",
+        "Contact No": "0612 245 1070"
+        },
+
+        {
+        "Name":"District Hospital Sonapur",
+        "Address": "Government hospital in Amara N.C., Assam",
+        "Contact No": "N/A"
+        },
+        {
+        "Name":"Mangaldoi Civil Hospital",
+        "Address": "NH 52, Ward No-2, Mangaldoi, Assam 784125",
+        "Contact No": "091013 24876"
+        },
+        {
+        "Name":"HPC KAGAJ NAGAR HOSPITAL",
+        "Address": "Tegheria, Assam 782410",
+        "Contact No": "N/A"
+        },
+    {
+        "Name":"Surya Hospital",
+        "Address": "83/11-C, East Azad Nagar, East Krishna Nagar",
+        "Contact No": "011 2200 2364"
+        },
+        {
+        "Name":"Lok Nayak Hospital",
+        "Address": "metro Station Central, Jawaharlal Nehru Marg",
+        "Contact No": "011 2323 6000"
+        },
+        {
+        "Name":"All India Institute Of Medical Sciences, New Delhi",
+        "Address": "Sri Aurobindo Marg, Ansari Nagar, Ansari Nagar East, New Delhi, Delhi 110029",
+        "Contact No":"011 2658 8500"
+        },
+
+    {
+        "Name":"Godrej Memorial Hospital",
+        "Address": "Eastern Express Hwy, Opposite to Godrej Tower, Pirojshanagar, Vikhroli",
+        "Contact No": "022 6641 7100"
+        },
+        {
+        "Name":"Zynova Shalby Hospital",
+        "Address": "Acme Elanza, 1900, 1917, Ghatkopar West, Maharashtra 400086",
+        "Contact No": "79 4020 3333"
+        },
+        {
+        "Name":"Dr L H Hiranandani Hospital",
+        "Address": " Hillside Rd, Hiranandani Gardens, Ramabai Ambedkar Nagar, Powai",
+        "Contact No": "022 2576 3500"
+        },
+
+    {
+        "Name":"Government Medical College, Amritsar",
+        "Address": "Medical Enclave, Amritsar, Punjab 143001",
+        "Contact No": "0183 242 6918"
+        },
+
+    {
+        "Name":"Dr. Susheela Tiwari Government Hospital",
+        "Address": "Rampur Rd, Haldwani, Uttarakhand 263129",
+        "Contact No": "05946 234 104"
+        },
+
+    {
+        "Name":"SCPM COLLEGE OF NURSING",
+        "Address": "Gonda, haripur, Uttar Pradesh",
+        "Contact No": "098396 73554"
+        },
+
+    {
+        "Name":"Aakash Hospital",
+        "Address": "393, Bus Depot, 1, Thiruvottiyur High Rd, near Thiruvotriyur, Periyar Nagar",
+        "Contact No": "044 4203 4109"
+        },
+
+    {
+        "Name":"Hindustan Aeronautics Limited Hospital",
+        "Address": "Suranjandas Road, Post, Vimanapura, Bengaluru, Karnataka 560017",
+        "Contact No": "0353 2436526"
+        }
+]
+

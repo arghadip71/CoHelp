@@ -1,0 +1,38 @@
+[
+            {
+                "name":"Aajeevika Bureau",
+                "address":"39,Krishna Colony,Near Khan Complex,Bedla Road,Udaipur,Rajasthan 313001,India",
+                "phoneumber":"91 294-245-1062",
+                "website":"info@aajeevika.org"
+            },
+            {
+                "name":"Akshaya Patra",
+                "address":"#72,3rd Floor,3rd Main Road,1st & 2nd Stage Yeshwantpur Industrial Suburb,Rajajinagar Ward No.10,Bengaluru-560022,India",
+                "phoneumber":"91 80 3014 3400",
+                "website":"infodesk@akshayapatra.org"
+            },
+            {
+                "name":"Foundation For Excellence",
+                "address":"No.840,5th Main,Indiranagar 1st Stage,Bengaluru 560 038,Karnataka,India",
+                "phoneumber":"91 (080) 2520 1925",
+                "website":"india_support@ffe.org"
+            },
+            {
+                "name":"Goonj",
+                "address":"J-93,Sarita Vihar,New Delhi-110076,India",
+                "phoneumber":"011-26972351",
+                "website":"mail@goonj.org"
+            },
+            {
+                "name":"Give India",
+                "address":"1st Floor,Rigel,No 15-19,Doddanekkundi,Marathahalli Outer Ring Road,Bengaluru,Karnataka-560037,India",
+                "phoneumber":"NA",
+                "website":"info@giveindia.org"
+            },
+            {
+                "name":"Plan India",
+                "address":"1,Community Centre,Zamrudpur,Kailash Colony Extension,New Delhi-110048,India",
+                "phoneumber":"91 11-46558484",
+                "website":"planindia@planindia.org"
+            }
+]

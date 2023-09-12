@@ -1,0 +1,52 @@
+[
+                {
+                    "name":"Saathii",
+                    "address":"CD 335,Sector I,Salt Lake City,Kolkata-700 064,India",
+                    "phoneumber":23347329,
+                    "website":"www.saathi.org"
+                },
+                {
+                    "name":"Aarti",
+                    "address":"Vijay Foundation Trust(Assn) D.No.20/539-B,Opposite Municipal Stadium Kadapa - 516001,YSR District, Andhra Pradesh, India",
+                    "phoneumber":"NA",
+                    "website":"aartisponsor@aartiforgirls.org"
+                },
+                {
+                    "name":"Association of India's Development(aid)",
+                    "address":"5011 Tecumseh Street College Park,MD 20740,USA",
+                    "phoneumber":304,
+                    "website":"info@aidindia.org"
+                },
+                {
+                    "name":"Bhartiya Jain Sanghatana",
+                    "address":"Bhartiya Jain Sanghatana,Level 3,Muttha Chamber II,Senapati Bapat Marg,Pune-411016,India",
+                    "phoneumber":912066050220,
+                    "website":"info@bjsindia.org"
+                },
+                {
+                    "name":"Hemkunt Foundation",
+                    "address":"Plot No.809,Second Floor,Rd 42C,Sector 42,Gurugram,Haryana 122001,India",
+                    "phoneumber":919990691313,
+                    "website":"info@hemkuntfoundation.com"
+                },
+                {
+                    "name":"International Association for Human Values(IHAV)",
+                    "address":"216-C,Humayunpur,Opposite Safdarjung Enclave,New Delhi 110029,India",
+                    "phoneumber":"NA",
+                    "website":"admin.in@iahv.org"
+                },
+                {
+                    "name":"Sehgal Foundation",
+                    "address":"Plot No.34,Sector 44,Institutional Area,Gurugram,Haryana-122003,India",
+                    "phoneumber":911244744100,
+                    "website":"smsf@smsfoundation.org"
+                },
+                {
+                    "name":"Sewa International",
+                    "address":"Sewa International,First Floor,Plot 8,Site 11,Near SD Public School,West Patel Nagar,New Delhi-110008,India",
+                    "phoneumber":911143007650,
+                    "website":"contact@sewainternational.org"
+                }
+]
+
+        
